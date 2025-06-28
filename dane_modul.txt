@@ -1,0 +1,23 @@
+drut1 = {
+    "masa_odwaznikow[kg]": [3,4,5,5.5,6],
+    "sila[N]" : [29.43, 39.24, 49.05, 53.96, 58.86],
+    "Wskazanie czujnika ↑[mm]" : [1.57, 1.86, 2.09, 2.21, 2.34],
+    "Wskazanie czujnika ↓ [mm]" : [1.28, 1.59, 1.86, 2.11, 2.22],
+    "Wydłużenie średnie ∆l [mm]" : [0.29, 0.27, 0.23, 0.1, 0.12],
+    "rodzaj materialu" : "mosiężny",
+    "dlugosc drutu l[mm]" : 107.5,
+    "srednica drutu (3 pomiary)" : [1.16, 1.14, 1.11],
+    "srednica srednia d[mm]" : 1.136 
+}
+
+drut2 = {
+    "masa_odwaznikow[kg]": [2,3,4,5,5.5,6,7,8,9,10],
+    "sila[N]" : [19.6, 29.43, 39.24, 49.05, 58.86, 68.67, 78.48, 88.29, 98.1],
+    "Wskazanie czujnika ↑[mm]" : [1.1, 1.45, 1.75, 2.04, 2.29, 2.55, 2.79, 3.04, 3.25],
+    "Wskazanie czujnika ↓ [mm]" : [0.71, 1.15, 1.48, 1.78, 2.06, 2.32, 2.57, 2.83, 3.06],
+    "Wydłużenie średnie ∆l [mm]" : [0.39, 0.30, 0.27, 0.26, 0.23, 0.23, 0.22, 0.21, 0.19],
+    "rodzaj materialu" : "stal",
+    "dlugosc drutu l[mm]" : 106.9,
+    "srednica drutu (3 pomiary)" : [1.75, 0.72, 0.73],
+    "srednica srednia d[mm]" : 0.73 
+}
