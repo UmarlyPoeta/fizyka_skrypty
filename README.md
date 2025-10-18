@@ -20,7 +20,7 @@ Calculates Young's modulus for different wire materials (brass and steel).
 
 ### 2. `materialy_ceramiczne.py`
 Analyzes hardness of ceramic materials.
-- Plots hardness (HV1) for various ceramic materials (TiN, SiC, Al₂O₃, WC/Co, Si₃N₄)
+- Plots hardness (HV1) for various ceramic materials (TiN, SiC, Al₂O₃, WC/Co, Si₃N₄, Al₂I₃)
 - Calculates density for WC + Co and Al₂O₃ samples
 - Uses bar charts for visualization
 
@@ -81,7 +81,7 @@ pip install matplotlib numpy scipy fpdf
 
 3. (Optional) Install Ollama for AI-generated report sections:
 ```bash
-# Follow instructions at https://ollama.ai/
+# Follow instructions at https://ollama.com/
 ```
 
 ## Usage
